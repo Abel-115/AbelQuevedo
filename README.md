@@ -8,6 +8,7 @@ Este repositorio contiene información para alojar un proyecto de documentación
 Para poder seguir este taller, deberás tener un conocimiento básico de informática y que estés acostumbrado/a a ejecutar comandos en
 una terminal. No es necesario que sepas programar. Para poder iniciarte en el mundo de Git y de GitHub tan solo necesitarás cumplir los
 siguientes requisitos:
+
 • Tener o crear una cuenta en GitHub.
 • Tener acceso a Internet.
 • Tener instalado Git. Cualquier sistema operativo es válido. Descarga Git desde el siguiente enlace. Selecciona tu sistema
